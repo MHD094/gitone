@@ -6,4 +6,5 @@ int main()
     cin>>x>>y;
     y = x+y;
     cout<<y;
+    "hello"
 }
